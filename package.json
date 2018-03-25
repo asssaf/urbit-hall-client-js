@@ -1,6 +1,6 @@
 {
   "name": "@asssaf/urbit-hall-client",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "description": "urbit hall client",
   "main": "index.js",
   "scripts": {
